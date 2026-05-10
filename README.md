@@ -43,18 +43,6 @@ This contains the project-specific PSO PC V2 runtime logic:
 - config handling
 - logging
 
-### `assets/v0.1/psopol.dll`
-
-Compiled v0.1 alpha runtime DLL.
-
-### `assets/v0.1/D3D8.dll`
-
-Minimal loader/proxy DLL used to load `psopol.dll` from the PSO PC V2 game directory.
-
-### `assets/v0.1/SHA256SUMS`
-
-SHA256 hashes for the archived v0.1 source and DLL assets.
-
 ## 14:9 viewport strategy
 
 - Full backbuffer: `3840x2160`
