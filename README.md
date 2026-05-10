@@ -22,7 +22,7 @@ Current goals:
 
 ## Disclaimer
 
-This project includes LLM-assisted and LLM-generated source code that grew out of earlier PSO PC V2 Dragon bug investigation work.
+This project includes LLM-assisted and LLM-generated source code that grew out of and still contains some remnants from earlier PSO PC V2 Dragon bug investigation work.
 
 This code is experimental and should not be considered stable at this time.
 
