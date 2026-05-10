@@ -1,4 +1,4 @@
-# PSO PC V2 `psopol.dll`
+# PSO PC V2 DLL Files`
 <img width="1500" height="844" alt="Screenshot From 2026-05-08 14-56-07" src="https://github.com/user-attachments/assets/8e398e3c-8211-4aba-9352-74efad9b2740" />
 
 Experimental runtime DLL work for **Phantasy Star Online PC V2**.
