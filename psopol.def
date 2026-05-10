@@ -1,0 +1,3 @@
+LIBRARY psopol
+EXPORTS
+    Direct3DCreate8
